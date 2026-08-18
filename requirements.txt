@@ -1,0 +1,3 @@
+# conda create -n memenv python=3.10 -y
+# conda activate memenv
+
